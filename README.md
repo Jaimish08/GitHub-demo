@@ -1,4 +1,5 @@
 # GitHub-demo
 This is my learning Repository.
 <br>
-Author - Jaimish
+Author - Jaimish 
+Sarvajanik University
